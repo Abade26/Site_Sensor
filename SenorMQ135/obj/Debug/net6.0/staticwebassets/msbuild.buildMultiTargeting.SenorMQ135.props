@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SenorMQ135.props" />
+</Project>
